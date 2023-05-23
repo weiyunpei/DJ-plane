@@ -1,6 +1,8 @@
 # DJ-plane
 A game based on pygame .
 
+The vedio of the game please see here:
+
 # DEPENDENCIES
  ```console
    pip install pygame
