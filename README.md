@@ -1,7 +1,7 @@
 # DJ-plane
 A simple game based on pygame .
 
-The vedio of the game please see here:https://www.bilibili.com/video/BV1pB4y137h3
+The vedio of the game please see here: https://www.bilibili.com/video/BV1pB4y137h3
 
 # DEPENDENCIES
  ```console
